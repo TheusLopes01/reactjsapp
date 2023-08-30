@@ -1,10 +1,11 @@
-Um app de Lista de Presença, que marca o nome e horário em tempo real.
+Um app de Lista de Presença, que marca o nome e horário em tempo real, utilizando API de usuário do Github.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
 - ReactJS
+- API
 - NPM
 - Git e Github
 
