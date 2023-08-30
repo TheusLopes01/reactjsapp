@@ -1,3 +1,14 @@
+Um app de Lista de Presença, que marca o nome e horário em tempo real.
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- ReactJS
+- NPM
+- Git e Github
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
